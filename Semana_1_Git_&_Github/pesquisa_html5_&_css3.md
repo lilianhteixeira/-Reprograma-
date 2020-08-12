@@ -74,10 +74,11 @@ interpretar páginas web, que utilizam versões antigas do HTML.
 title, body e p.")
 
 O HTML usa "Marcação" para anotar texto, imagem e outros conteúdos para exibição em um navegador da Web. A marcação HTML inclui 
-alguns "elementos" especiais como o head, title, body, header, footer, article, section, p, div, span, img, entre outras. Um 
-elemento HTML é separado de outro texto em um documento por "tags", que consistem no nome do elemento entre "<" e ">". Uma 
-linguagem de marcação como HTML também fornece maneiras de especificar estilo. Por exemplo, você pode usar a tag \<b> para fazer o 
-texto em negrito e pode especificar a cor de fundo na sua tag \<body>.
+alguns "elementos" especiais como \<head>, \<title>, \<body>, \<header>, \<footer>, \<article>, \<section>, \<p>, \<div>, 
+\<span>, \<img>, \<aside>, \<audio>, \<canvas>, \<datalist>, \<details>, \<embed>, \<nav>, \<output>, \<progress>, 
+\<video>, \<ul>, \<ol>, \<li> e muitos outros. Um elemento HTML é separado de outro texto em um documento por "tags", que 
+consistem no nome do elemento entre "<" e ">". Uma linguagem de marcação como HTML também fornece maneiras de especificar estilo. 
+Por exemplo, você pode usar a tag \<b> para fazer o texto em negrito e pode especificar a cor de fundo na sua tag \<body>.
 
 
 ## CSS
@@ -91,7 +92,7 @@ conteúdos já estruturados. Essa linguagem é responsável pela aparência da p
 tudo que torne o site mais visualmente agradável para a navegação.
 
 O objetivo da CSS é ser usada para definir estilos para os seus documentos, incluindo o design, layout e as variações na exibição 
-para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag "<head>" do seu documento com uma folha 
+para diferentes dispositivos e tamanho de tela. Você pode colocar suas CSS dentro da tag \<head> do seu documento com uma folha 
 de estilos incorporada ou anexar uma folha de estilos externa. Uma folha de estilo externa tem muitas vantagens como ajudar a 
 evitar código repetido, facilitar a manutenção e permitir fazer mudança no site inteiro alterando apenas um arquivo.
 
@@ -119,7 +120,7 @@ elemento por:
     - casamento de um grupo : element_name_01, element_name_02, .class_name { style definition; }
 
 
-#### JavaScript e resumo
+### JavaScript e resumo
 
 O foco do nosso artigo é HTML e CSS, mas não podemos deixar de falar sobre o **JavaScript**. O JavaScript é usado em conjunto com 
 o CSS e o HTML, para adicionar funcionalidade dinâmica para páginas da web (como por exemplo encontrar sua localização e exibí-la 
@@ -147,12 +148,13 @@ comportamento.
 ![juncao_html_css_js](https://geekflare.com/wp-content/uploads/2019/12/css-gif.gif "Imagem que retrata a junção do html com o css 
 e o javascript.")
 
-#### Referências:
-[Developer Mozilla - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[Developer Mozilla - CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/CSS)
-[ISBrasil](https://www.isbrasil.info/blog/html-x-css-afinal-quais-sao-as-diferencas.html)
-[W3C](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
-[Guilherme Muller](https://guilhermemuller.com.br/ead/html-css-na-pratica/)
-[TreinaWeb](https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/)
-[Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css)
-[Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+### Referências:
+
+-[Developer Mozilla - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-[Developer Mozilla - CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/CSS)
+-[ISBrasil](https://www.isbrasil.info/blog/html-x-css-afinal-quais-sao-as-diferencas.html)
+-[W3C](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
+-[Guilherme Muller](https://guilhermemuller.com.br/ead/html-css-na-pratica/)
+-[TreinaWeb](https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/)
+-[Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css)
+-[Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
