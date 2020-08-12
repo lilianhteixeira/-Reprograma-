@@ -150,18 +150,18 @@ e o javascript.")
 
 ### Referências:
 
--[Developer Mozilla - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Developer Mozilla - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
--[Developer Mozilla - CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/CSS)
+- [Developer Mozilla - CSS](https://developer.mozilla.org/pt-BR/docs/Aprender/CSS)
 
--[ISBrasil](https://www.isbrasil.info/blog/html-x-css-afinal-quais-sao-as-diferencas.html)
+- [ISBrasil](https://www.isbrasil.info/blog/html-x-css-afinal-quais-sao-as-diferencas.html)
 
--[W3C](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
+- [W3C](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
 
--[Guilherme Muller](https://guilhermemuller.com.br/ead/html-css-na-pratica/)
+- [Guilherme Muller](https://guilhermemuller.com.br/ead/html-css-na-pratica/)
 
--[TreinaWeb](https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/)
+- [TreinaWeb](https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/)
 
--[Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css)
+- [Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css)
 
--[Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+- [Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
