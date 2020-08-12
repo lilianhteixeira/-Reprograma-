@@ -74,11 +74,10 @@ interpretar páginas web, que utilizam versões antigas do HTML.
 title, body e p.")
 
 O HTML usa "Marcação" para anotar texto, imagem e outros conteúdos para exibição em um navegador da Web. A marcação HTML inclui 
-alguns "elementos" especiais ("<head>", "<title>", "<body>", "<header>", "<footer>", "<article>", "<section>", "<p>", "<div>", 
-"<span>", "<img>", "<aside>", "<audio>", "<canvas>", "<datalist>", "<details>", "<embed>", "<nav>", "<output>", "<progress>", 
-"<video>", "<ul>", "<ol>", "<li>"). Um elemento HTML é separado de outro texto em um documento por "tags", que 
-consistem no nome do elemento entre "<" e ">". Uma linguagem de marcação como HTML também fornece maneiras de especificar estilo. 
-Por exemplo, você pode usar a tag "<b>" para fazer o texto em negrito e pode especificar a cor de fundo na sua tag "<body>".
+alguns "elementos" especiais como o head, title, body, header, footer, article, section, p, div, span, img, entre outras. Um 
+elemento HTML é separado de outro texto em um documento por "tags", que consistem no nome do elemento entre "<" e ">". Uma 
+linguagem de marcação como HTML também fornece maneiras de especificar estilo. Por exemplo, você pode usar a tag \<b> para fazer o 
+texto em negrito e pode especificar a cor de fundo na sua tag \<body>.
 
 
 ## CSS
